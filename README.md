@@ -6,6 +6,4 @@
 -Made by 
 <br>
 Yogendra Sharma Upadhyaya <br>
-Saurav Gaudel<br>
-Sujal Dawadi<br>
-Ujjwal Chapagain
+
